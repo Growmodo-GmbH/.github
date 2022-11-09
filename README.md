@@ -1,1 +1,3 @@
-# profile
+# Growmodo, GmbH
+
+www.growmodo.com
